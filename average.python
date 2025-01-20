@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+d=int(input())
+e=int(input())
+f=(a+b+c+d+e)
+h=f/5
+if(h<35):
+    print("Additional class is required.")
+else:
+    print("You are good to go.")
